@@ -43,7 +43,7 @@ jobs:
           # Version of unity to use for building the project. Use "auto" to get from your ProjectSettings/ProjectVersion.txt
           unityVersion: 2020.3.21f1 # optional, default is auto
           # Platform that the build should target.
-          targetPlatform: webGL# optional, default is 
+          targetPlatform: webGL
           # Relative path to the project to be built.
           #projectPath: # optional, default is 
           # Name of the build.
